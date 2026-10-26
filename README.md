@@ -1,5 +1,3 @@
-README.md
- Αντιγραφή Markdown
 # Cartesian Trees and Range Minimum Queries
 
 Diploma Thesis | Computer Science and Engineering
